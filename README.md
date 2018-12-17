@@ -1,2 +1,2 @@
-# hackerrank-python
-Repo of Python challenges from HackerRank
+# HackerRank
+These are my solutions to the Python challenges in HackerRank
